@@ -1,0 +1,5 @@
+seed=4332
+dt_s=0.1
+measurement_std_m=0.25
+dropout_start_s=25
+dropout_end_exclusive_s=35
